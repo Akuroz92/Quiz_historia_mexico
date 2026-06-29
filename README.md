@@ -9,11 +9,10 @@ Juego interactivo de preguntas y respuestas sobre la Independencia y Revolución
 3. Coloca el archivo `preguntas.csv` en la misma carpeta que `quiz_historia_mexico.py`.
 4. Ejecuta el programa haciendo doble clic sobre `quiz_historia_mexico.py`.
 
-## Capturas de pantalla
+## Demostracion
 
-![Pantalla de Inicio](https://github.com/user-attachments/assets/4282251d-5f56-4931-83e6-54a21137f5cf)
-
-![Pantalla de Juego](https://github.com/user-attachments/assets/924e9dc9-c654-45b8-bd89-ca9ac9af31ac)
+<img width="1056" height="776" alt="image" src="https://github.com/user-attachments/assets/4396e7af-6646-4691-a1a5-0b59622ec3c3" />
+<img width="1056" height="776" alt="image" src="https://github.com/user-attachments/assets/330b444c-87d7-4864-b882-3793bf2ba93e" />
 
 ## Autor
 Alejandro Salinas Quiroz
